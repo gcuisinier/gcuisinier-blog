@@ -1,0 +1,7 @@
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = git@github.com:zyro/hyde-x.git
+[submodule "public"]
+	path = public
+	url = git@github.com:gcuisinier/gcuisinier.github.io.git
+	branch = master
